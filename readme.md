@@ -1,1 +1,1 @@
-hi
+This project is developed as part of my Software Development Internship at Koncept Labs. The project focuses on building and understanding web application development using modern development tools and technologies. During the internship, I worked on developing responsive user interfaces, implementing interactive features, debugging and troubleshooting issues, and gaining practical experience with frontend and backend development workflows. This repository documents my learning, development work, and progress throughout the internship.
